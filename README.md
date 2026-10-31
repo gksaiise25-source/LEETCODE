@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
+| [2469-convert-the-temperature](https://github.com/gksaiise25-source/leetcode/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
