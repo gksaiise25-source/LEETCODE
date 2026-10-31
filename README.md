@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gksaiise25-source/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gksaiise25-source/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/gksaiise25-source/leetcode/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/gksaiise25-source/leetcode/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 | [1480-running-sum-of-1d-array](https://github.com/gksaiise25-source/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
 | [2469-convert-the-temperature](https://github.com/gksaiise25-source/leetcode/tree/master/2469-convert-the-temperature) |
@@ -94,4 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
