@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gksaiise25-source/leetcode/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 | [1480-running-sum-of-1d-array](https://github.com/gksaiise25-source/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/gksaiise25-source/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gksaiise25-source/leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gksaiise25-source/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gksaiise25-source/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gksaiise25-source/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/gksaiise25-source/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
