@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gksaiise25-source/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gksaiise25-source/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/gksaiise25-source/leetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/gksaiise25-source/leetcode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/gksaiise25-source/leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gksaiise25-source/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/gksaiise25-source/leetcode/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gksaiise25-source/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
