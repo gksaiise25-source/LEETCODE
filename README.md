@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gksaiise25-source/leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gksaiise25-source/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+| [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gksaiise25-source/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/gksaiise25-source/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gksaiise25-source/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
