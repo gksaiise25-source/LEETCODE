@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/gksaiise25-source/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/gksaiise25-source/leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gksaiise25-source/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 | [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/gksaiise25-source/leetcode/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gksaiise25-source/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
