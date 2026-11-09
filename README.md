@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gksaiise25-source/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gksaiise25-source/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/gksaiise25-source/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gksaiise25-source/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gksaiise25-source/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gksaiise25-source/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gksaiise25-source/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Simulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gksaiise25-source/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/gksaiise25-source/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gksaiise25-source/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
