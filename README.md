@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 | [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gksaiise25-source/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gksaiise25-source/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gksaiise25-source/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/gksaiise25-source/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/gksaiise25-source/leetcode/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gksaiise25-source/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gksaiise25-source/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/gksaiise25-source/leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gksaiise25-source/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
