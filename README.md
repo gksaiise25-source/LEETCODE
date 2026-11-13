@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gksaiise25-source/leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gksaiise25-source/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gksaiise25-source/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gksaiise25-source/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/gksaiise25-source/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gksaiise25-source/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gksaiise25-source/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gksaiise25-source/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gksaiise25-source/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gksaiise25-source/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/gksaiise25-source/leetcode/tree/master/2469-convert-the-temperature) |
 ## Recursion
