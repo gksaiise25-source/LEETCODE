@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0707-design-linked-list) |
 ## Design
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
 ## Enumeration
