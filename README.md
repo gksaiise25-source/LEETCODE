@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gksaiise25-source/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/gksaiise25-source/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gksaiise25-source/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gksaiise25-source/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/gksaiise25-source/leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gksaiise25-source/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gksaiise25-source/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gksaiise25-source/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gksaiise25-source/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
