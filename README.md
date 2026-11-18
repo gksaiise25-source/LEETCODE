@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gksaiise25-source/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gksaiise25-source/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gksaiise25-source/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/gksaiise25-source/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gksaiise25-source/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gksaiise25-source/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
