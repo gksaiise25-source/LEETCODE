@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gksaiise25-source/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gksaiise25-source/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gksaiise25-source/leetcode/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gksaiise25-source/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gksaiise25-source/leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/gksaiise25-source/leetcode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/gksaiise25-source/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gksaiise25-source/leetcode/tree/master/0342-power-of-four) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/gksaiise25-source/leetcode/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gksaiise25-source/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
