@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gksaiise25-source/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/gksaiise25-source/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gksaiise25-source/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gksaiise25-source/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gksaiise25-source/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gksaiise25-source/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
