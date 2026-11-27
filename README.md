@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gksaiise25-source/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gksaiise25-source/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/gksaiise25-source/leetcode/tree/master/0706-design-hashmap) |
 | [0977-squares-of-a-sorted-array](https://github.com/gksaiise25-source/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gksaiise25-source/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+| [0706-design-hashmap](https://github.com/gksaiise25-source/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gksaiise25-source/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/gksaiise25-source/leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+| [0706-design-hashmap](https://github.com/gksaiise25-source/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/gksaiise25-source/leetcode/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gksaiise25-source/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gksaiise25-source/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gksaiise25-source/leetcode/tree/master/0242-valid-anagram) |
+| [0706-design-hashmap](https://github.com/gksaiise25-source/leetcode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/gksaiise25-source/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Stack
 |  |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gksaiise25-source/leetcode/tree/master/0020-valid-parentheses) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/gksaiise25-source/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
